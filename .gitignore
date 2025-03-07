@@ -1,0 +1,6 @@
+venv/
+exports/
+blender_debug.log
+blender_log.txt
+CLAUDE.md
+assets/

@@ -1,0 +1,997 @@
+{
+  "holz_standard_a_256": [
+    "assets/textures/m256/Holz_Standard_a_256.tga"
+  ],
+  "trollh_4_wand_d": [
+    "assets/textures/m256/trollh_4_wand_d.tga"
+  ],
+  "metall_standard_b_256": [
+    "assets/textures/m256/Metall_Standard_b_256.tga"
+  ],
+  "kr_enviroment_a": [
+    "assets/textures/m064/kr_enviroment_a.tga"
+  ],
+  "kr_enviroment_e": [
+    "assets/textures/m064/kr_enviroment_e.tga"
+  ],
+  "kr_enviroment_a_noalpha": [
+    "assets/textures/m064/kr_enviroment_a_noalpha.tga"
+  ],
+  "kr_enviroment_c_noalpha": [
+    "assets/textures/m064/kr_enviroment_c_noalpha.tga"
+  ],
+  "kr_enviroment_h": [
+    "assets/textures/m064/kr_enviroment_h.tga"
+  ],
+  "kr_enviroment_c": [
+    "assets/textures/m064/kr_enviroment_c.tga"
+  ],
+  "kr_enviroment_b": [
+    "assets/textures/m064/kr_enviroment_b.tga"
+  ],
+  "kr_enviroment_g": [
+    "assets/textures/m064/kr_enviroment_g.tga"
+  ],
+  "kr_enviroment_b_noalpha": [
+    "assets/textures/m064/kr_enviroment_b_noalpha.tga"
+  ],
+  "kr_enviroment_f": [
+    "assets/textures/m064/kr_enviroment_f.tga"
+  ],
+  "stein_sand_a": [
+    "assets/textures/m256/Stein_Sand_a.tga"
+  ],
+  "enviro_lava": [
+    "assets/textures/m064/enviro_lava.tga"
+  ],
+  "character_zbaby_a": [
+    "assets/textures/m128/Character_ZBaby_a.tga"
+  ],
+  "helme_huete_a": [
+    "assets/textures/m256/helme_huete_a.tga"
+  ],
+  "fenbrut_gruen": [
+    "assets/textures/m128/fenbrut_gruen.tga"
+  ],
+  "character_drache_b_256": [
+    "assets/textures/m256/Character_Drache_b_256.tga",
+    "assets/textures/Gray/Character_Drache_b_256.tga"
+  ],
+  "character_troll_kopf_b": [
+    "assets/textures/m256/Character_Troll_Kopf_b.tga"
+  ],
+  "holz_standard_e_256": [
+    "assets/textures/m256/Holz_Standard_e_256.tga"
+  ],
+  "urwald_lianen_a": [
+    "assets/textures/m256/Urwald_Lianen_a.tga"
+  ],
+  "stein_standard_d": [
+    "assets/textures/m256/Stein_Standard_d.tga"
+  ],
+  "spinnweben_a": [
+    "assets/textures/m256/Spinnweben_a.tga"
+  ],
+  "urwald_moos_a_256": [
+    "assets/textures/m256/Urwald_Moos_a_256.tga"
+  ],
+  "urwald_moos_b_256": [
+    "assets/textures/m256/Urwald_Moos_b_256.tga"
+  ],
+  "stein_standard_b_256": [
+    "assets/textures/m256/Stein_Standard_b_256.tga"
+  ],
+  "urwald_pflanzen_a": [
+    "assets/textures/m256/Urwald_Pflanzen_a.tga"
+  ],
+  "urwald_pilz_a_256": [
+    "assets/textures/m256/Urwald_Pilz_a_256.tga"
+  ],
+  "stein_kristallreaktor_a": [
+    "assets/textures/m256/Stein_kristallreaktor_a.tga"
+  ],
+  "trollh_boden_b_256": [
+    "assets/textures/m256/Trollh_Boden_b_256.tga"
+  ],
+  "trollh_boden_b_end_256": [
+    "assets/textures/m256/Trollh_Boden_b_End_256.tga"
+  ],
+  "trollh_boden_b_end_b_256": [
+    "assets/textures/m256/Trollh_Boden_b_End_b_256.tga"
+  ],
+  "zwerge_holz_c_256": [
+    "assets/textures/m256/Zwerge_Holz_c_256.tga"
+  ],
+  "zwerge_holz_b_256": [
+    "assets/textures/m256/Zwerge_Holz_b_256.tga"
+  ],
+  "trollh_licht_a_256": [
+    "assets/textures/m256/Trollh_Licht_a_256.tga"
+  ],
+  "zwerge_wohn_industr_c": [
+    "assets/textures/m256/Zwerge_wohn_industr_c.tga"
+  ],
+  "checker": [
+    "assets/textures/m032/Checker.tga"
+  ],
+  "character_hamster_a_128": [
+    "assets/textures/m128/Character_Hamster_a_128.tga"
+  ],
+  "zwerge_boden_c": [
+    "assets/textures/m256/Zwerge_Boden_c.tga"
+  ],
+  "zwerge_boden_c_end_a": [
+    "assets/textures/m256/Zwerge_Boden_c_End_a.tga"
+  ],
+  "holz_standard_d_256": [
+    "assets/textures/m256/Holz_Standard_d_256.tga"
+  ],
+  "stein_standard_a_256": [
+    "assets/textures/m256/Stein_Standard_a_256.tga"
+  ],
+  "holz_standard_c_256": [
+    "assets/textures/m256/Holz_Standard_c_256.tga"
+  ],
+  "trollh_einrichtung_a_256": [
+    "assets/textures/m256/Trollh_Einrichtung_a_256.tga"
+  ],
+  "metall_standard_a_256": [
+    "assets/textures/m256/Metall_Standard_a_256.tga"
+  ],
+  "trollh_wandschmuck_a_256": [
+    "assets/textures/m256/Trollh_Wandschmuck_a_256.tga"
+  ],
+  "urwald_pflanzen_c": [
+    "assets/textures/m256/Urwald_Pflanzen_c.tga"
+  ],
+  "holz_standard_b_256": [
+    "assets/textures/m256/Holz_Standard_b_256.tga"
+  ],
+  "metall_moebel_a_256": [
+    "assets/textures/m256/Metall_Moebel_a_256.tga"
+  ],
+  "zwerge_mechzeitalter_b": [
+    "assets/textures/m256/Zwerge_mechZeitalter_b.tga"
+  ],
+  "kristall_gallerie": [
+    "assets/textures/m256/kristall_gallerie.tga"
+  ],
+  "fx_licht_b": [
+    "assets/textures/Misc/FX_Licht_b.tga"
+  ],
+  "zwerge_boden_a": [
+    "assets/textures/m256/Zwerge_Boden_a.tga"
+  ],
+  "metall_werkzeuge_a_128": [
+    "assets/textures/m128/Metall_Werkzeuge_a_128.tga"
+  ],
+  "trollh_folterkammer_a_256": [
+    "assets/textures/m256/Trollh_Folterkammer_a_256.tga"
+  ],
+  "zwerge_boden_a_end_a": [
+    "assets/textures/m256/Zwerge_Boden_a_End_a.tga"
+  ],
+  "struktur_bettzeug_a_256": [
+    "assets/textures/m256/Struktur_Bettzeug_a_256.tga"
+  ],
+  "turnier_zubehoer_b": [
+    "assets/textures/m256/turnier_zubehoer_b.tga"
+  ],
+  "titanic_4_metall_c": [
+    "assets/textures/m256/titanic_4_metall_c.tga"
+  ],
+  "zwerge_wohn_industr_b": [
+    "assets/textures/m256/Zwerge_wohn_industr_b.tga"
+  ],
+  "struktur_moebel_c_256": [
+    "assets/textures/m256/Struktur_Moebel_c_256.tga"
+  ],
+  "metall_wellblech_a": [
+    "assets/textures/m256/Metall_Wellblech_a.tga"
+  ],
+  "holz_deherei_a": [
+    "assets/textures/m256/Holz_Deherei_a.tga"
+  ],
+  "metall_wellblech_b": [
+    "assets/textures/m256/Metall_Wellblech_b.tga"
+  ],
+  "zwerge_kuech_industr_b": [
+    "assets/textures/m256/Zwerge_kuech_industr_b.tga"
+  ],
+  "metall_schleifm_a": [
+    "assets/textures/m256/Metall_Schleifm_a.tga"
+  ],
+  "zwerge_kuech_industr_a": [
+    "assets/textures/m256/Zwerge_kuech_industr_a.tga"
+  ],
+  "zwerge_wohn_industr_a": [
+    "assets/textures/m256/Zwerge_wohn_industr_a.tga"
+  ],
+  "wuker01": [
+    "assets/textures/m256/wuker01.tga"
+  ],
+  "urwald_rankelwand_a_256": [
+    "assets/textures/m256/Urwald_Rankelwand_a_256.tga"
+  ],
+  "zwerge_boden_b": [
+    "assets/textures/m256/Zwerge_Boden_b.tga"
+  ],
+  "stein_standard_c_256": [
+    "assets/textures/m256/Stein_Standard_c_256.tga"
+  ],
+  "turnier_buehne_b": [
+    "assets/textures/m256/turnier_buehne_b.tga"
+  ],
+  "metall_labor_a": [
+    "assets/textures/m256/Metall_labor_a.tga"
+  ],
+  "metall_disco_a": [
+    "assets/textures/m256/Metall_Disco_a.tga"
+  ],
+  "obw_4_boden_b": [
+    "assets/textures/m256/obw_4_boden_b.tga"
+  ],
+  "struktur_moebel_a_256": [
+    "assets/textures/m256/Struktur_Moebel_a_256.tga"
+  ],
+  "urwald_pflanzen_b": [
+    "assets/textures/m256/Urwald_Pflanzen_b.tga"
+  ],
+  "zwerge_schlaf_gold_a": [
+    "assets/textures/m256/Zwerge_schlaf_gold_a.tga"
+  ],
+  "enviro_wohn_f": [
+    "assets/textures/m064/enviro_wohn_f.tga"
+  ],
+  "enviro_gold": [
+    "assets/textures/m064/enviro_gold.tga"
+  ],
+  "enviro_wohn_b_noalpha": [
+    "assets/textures/m064/enviro_wohn_b_noalpha.tga"
+  ],
+  "enviro_wohn_a_noalpha": [
+    "assets/textures/m064/enviro_wohn_a_noalpha.tga"
+  ],
+  "enviro_wohn_e": [
+    "assets/textures/m064/enviro_wohn_e.tga"
+  ],
+  "stein_glas_b": [
+    "assets/textures/m256/Stein_glas_b.tga"
+  ],
+  "spinnweben_b": [
+    "assets/textures/m256/Spinnweben_b.tga"
+  ],
+  "urwald_wurzeln_c_256": [
+    "assets/textures/m256/Urwald_Wurzeln_c_256.tga"
+  ],
+  "enviro_wohn_blau": [
+    "assets/textures/m064/enviro_wohn_blau.tga"
+  ],
+  "trollh_einrichtung_b_256": [
+    "assets/textures/m256/Trollh_Einrichtung_b_256.tga"
+  ],
+  "enviro_wohn_blau_2": [
+    "assets/textures/m064/enviro_wohn_blau_2.tga"
+  ],
+  "enviro_chrome": [
+    "assets/textures/m064/enviro_chrome.tga"
+  ],
+  "bunte_waende_a": [
+    "assets/textures/m256/bunte_waende_a.tga"
+  ],
+  "enviro_wohn_gruen": [
+    "assets/textures/m064/enviro_wohn_gruen.tga"
+  ],
+  "enviro_wohn_gruen_2": [
+    "assets/textures/m064/enviro_wohn_gruen_2.tga"
+  ],
+  "enviro_wasser": [
+    "assets/textures/m064/enviro_wasser.tga"
+  ],
+  "metall_bordell_a": [
+    "assets/textures/m256/Metall_bordell_a.tga"
+  ],
+  "struktur_moebel_b_256": [
+    "assets/textures/m256/Struktur_Moebel_b_256.tga"
+  ],
+  "enviro_rot_2": [
+    "assets/textures/m064/enviro_rot_2.tga"
+  ],
+  "stein_glas_c": [
+    "assets/textures/m256/Stein_glas_c.tga"
+  ],
+  "enviro_rot": [
+    "assets/textures/m064/enviro_rot.tga"
+  ],
+  "struktur_leder_a_256": [
+    "assets/textures/m256/Struktur_Leder_a_256.tga"
+  ],
+  "stein_glas_a": [
+    "assets/textures/m256/Stein_glas_a.tga"
+  ],
+  "struktur_rohstoffe_c_256": [
+    "assets/textures/m256/Struktur_Rohstoffe_c_256.tga"
+  ],
+  "trollh_tueren_a_256": [
+    "assets/textures/m256/Trollh_Tueren_a_256.tga"
+  ],
+  "obw_4_boden_c": [
+    "assets/textures/m256/obw_4_boden_c.tga"
+  ],
+  "metall_schleifm_a_256": [
+    "assets/textures/m256/Metall_Schleifm_a_256.tga"
+  ],
+  "gelbneb_saeuleb_2": [
+    "assets/textures/m256/gelbneb_saeuleb_2.tga"
+  ],
+  "kris_4_burg_a": [
+    "assets/textures/m256/kris_4_burg_a.tga"
+  ],
+  "kris_4_burg_b": [
+    "assets/textures/m256/kris_4_burg_b.tga"
+  ],
+  "elfen_koerper": [
+    "assets/textures/m256/Elfen_Koerper.tga"
+  ],
+  "elfen_kopf": [
+    "assets/textures/m128/Elfen_Kopf.tga"
+  ],
+  "character_fenris_rest": [
+    "assets/textures/m256/Character_Fenris_rest.tga"
+  ],
+  "character_fenris_koerper_a": [
+    "assets/textures/m256/Character_Fenris_Koerper_a.tga"
+  ],
+  "character_fenris_kopf_a": [
+    "assets/textures/m256/Character_Fenris_Kopf_a.tga"
+  ],
+  "titanic_kopf_a": [
+    "assets/textures/m256/titanic_kopf_a.tga"
+  ],
+  "character_raupe_a_128": [
+    "assets/textures/m128/Character_Raupe_a_128.tga"
+  ],
+  "lava_nahtlos": [
+    "assets/textures/m128/lava_nahtlos.tga"
+  ],
+  "urwald_stein_256": [
+    "assets/textures/m256/Urwald_stein_256.tga"
+  ],
+  "enviro_glas": [
+    "assets/textures/m064/enviro_glas.tga"
+  ],
+  "character_troll_kopf_a_256": [
+    "assets/textures/m256/Character_Troll_Kopf_a_256.tga"
+  ],
+  "urwald_riesenpilzbaum_c": [
+    "assets/textures/m256/Urwald_Riesenpilzbaum_c.tga"
+  ],
+  "zmann_koerper_unten_v1": [
+    "assets/textures/m128/ZMann_Koerper_unten_v1.tga"
+  ],
+  "metall_disco_b": [
+    "assets/textures/m256/Metall_Disco_b.tga"
+  ],
+  "lava_fenrish_a": [
+    "assets/textures/m256/lava_fenrish_a.tga"
+  ],
+  "struktur_rohstoffe_a_256": [
+    "assets/textures/m256/Struktur_Rohstoffe_a_256.tga"
+  ],
+  "urwald_wurzeln_d_256": [
+    "assets/textures/m256/Urwald_Wurzeln_d_256.tga"
+  ],
+  "urwald_wurzeln_a_256": [
+    "assets/textures/m256/Urwald_Wurzeln_a_256.tga"
+  ],
+  "holz_standard_f_256": [
+    "assets/textures/m256/Holz_Standard_f_256.tga"
+  ],
+  "fifi03": [
+    "assets/textures/m128/Fifi03.tga"
+  ],
+  "urwald_pflanzen_d": [
+    "assets/textures/m256/Urwald_Pflanzen_d.tga"
+  ],
+  "urwald_wurzeln_b_256": [
+    "assets/textures/m256/Urwald_Wurzeln_b_256.tga"
+  ],
+  "fx_licht": [
+    "assets/textures/Misc/FX_Licht.tga"
+  ],
+  "urwald_riesenpilzbaum_a": [
+    "assets/textures/m256/Urwald_Riesenpilzbaum_a.tga"
+  ],
+  "urwald_riesenpilzbaum_b": [
+    "assets/textures/m256/Urwald_Riesenpilzbaum_b.tga"
+  ],
+  "urwald_schlabber_a": [
+    "assets/textures/m256/Urwald_Schlabber_a.tga"
+  ],
+  "urwald_pflanzen_e": [
+    "assets/textures/m256/Urwald_Pflanzen_e.tga"
+  ],
+  "oberw_details_a": [
+    "assets/textures/m256/Oberw_details_a.tga"
+  ],
+  "holz_moebeltischler_a": [
+    "assets/textures/m256/Holz_Moebeltischler_a.tga"
+  ],
+  "urwald_riesentor": [
+    "assets/textures/m256/Urwald_riesentor.tga"
+  ],
+  "urwald_riesentor_a": [
+    "assets/textures/m256/Urwald_riesentor_a.tga"
+  ],
+  "wasser_128": [
+    "assets/textures/m128/wasser_128.tga"
+  ],
+  "zfrau_koerper_unten": [
+    "assets/textures/m128/ZFrau_Koerper_unten.tga"
+  ],
+  "zfrau_koerper_oben": [
+    "assets/textures/m128/ZFrau_Koerper_oben.tga"
+  ],
+  "zfrau_haare": [
+    "assets/textures/m128/ZFrau_Haare.tga"
+  ],
+  "zfrau_gesicht_normal": [
+    "assets/textures/m128/ZFrau_Gesicht_normal.tga"
+  ],
+  "zfrau_augen_normal": [
+    "assets/textures/m064/ZFrau_Augen_normal.tga"
+  ],
+  "turnier_fahnen_a": [
+    "assets/textures/m256/turnier_fahnen_a.tga"
+  ],
+  "stein_bowlingbahn_a": [
+    "assets/textures/m256/Stein_bowlingbahn_a.tga"
+  ],
+  "character_troll_kopf_d": [
+    "assets/textures/m256/Character_Troll_Kopf_d.tga"
+  ],
+  "metall_gym_bude_a": [
+    "assets/textures/m256/Metall_gym_bude_a.tga"
+  ],
+  "troll_kopf001": [
+    "assets/textures/m256/Troll_Kopf001.tga"
+  ],
+  "interface01": [
+    "assets/textures/m256/Interface01.tga"
+  ],
+  "metall_werkzeuge_b_128": [
+    "assets/textures/m128/Metall_Werkzeuge_b_128.tga"
+  ],
+  "cw_waffen": [
+    "assets/textures/m128/CW_waffen.tga"
+  ],
+  "turnier_buehne_a": [
+    "assets/textures/m256/turnier_buehne_a.tga"
+  ],
+  "turnier_buehne_c": [
+    "assets/textures/m256/turnier_buehne_c.tga"
+  ],
+  "strukur_hbett_a_256": [
+    "assets/textures/m256/Strukur_Hbett_a_256.tga"
+  ],
+  "zwerge_boden_b_end_a": [
+    "assets/textures/m256/Zwerge_Boden_b_End_a.tga"
+  ],
+  "metall_opferaltar_a_256": [
+    "assets/textures/m256/Metall_Opferaltar_a_256.tga"
+  ],
+  "struktur_buehne_a_256": [
+    "assets/textures/m256/Struktur_Buehne_a_256.tga"
+  ],
+  "struktur_buehne_b": [
+    "assets/textures/m256/Struktur_Buehne_b.tga"
+  ],
+  "metall_hofen_dhammer_a_256": [
+    "assets/textures/m256/Metall_Hofen_Dhammer_a_256.tga"
+  ],
+  "metall_op_a_256": [
+    "assets/textures/m256/Metall_Op_a_256.tga"
+  ],
+  "metall_dampflore_a_256": [
+    "assets/textures/m256/Metall_Dampflore_a_256.tga"
+  ],
+  "metall_amboss_a_128": [
+    "assets/textures/m128/Metall_Amboss_a_128.tga"
+  ],
+  "metall_krankenhaus_a": [
+    "assets/textures/m256/Metall_Krankenhaus_a.tga"
+  ],
+  "kris_4_brain_a": [
+    "assets/textures/m256/kris_4_brain_a.tga"
+  ],
+  "gelbneb_4_metall_c": [
+    "assets/textures/m256/gelbneb_4_metall_c.tga"
+  ],
+  "zahnraeder_b": [
+    "assets/textures/m256/zahnraeder_b.tga"
+  ],
+  "oberwelt_baum_b": [
+    "assets/textures/m256/Oberwelt_Baum_b.tga"
+  ],
+  "kreide_alpha": [
+    "assets/textures/m064/kreide_alpha.tga"
+  ],
+  "sumpfwasser": [
+    "assets/textures/m128/sumpfwasser.tga"
+  ],
+  "zahnraeder": [
+    "assets/textures/m256/zahnraeder.tga"
+  ],
+  "metall_kristallmasch": [
+    "assets/textures/m256/metall_kristallmasch.tga"
+  ],
+  "gelbneb_saeule_c": [
+    "assets/textures/m256/gelbneb_saeule_c.tga"
+  ],
+  "enviro_green": [
+    "assets/textures/m064/enviro_green.tga"
+  ],
+  "lava_4_vamp_a": [
+    "assets/textures/m256/lava_4_vamp_a.tga"
+  ],
+  "kris_eis": [
+    "assets/textures/m128/kris_eis.tga"
+  ],
+  "character_troll_kopf_c": [
+    "assets/textures/m256/Character_Troll_Kopf_c.tga"
+  ],
+  "vulcan_seamless_2": [
+    "assets/textures/m128/vulcan_seamless_2.tga"
+  ],
+  "lava_seulen_128_noalpha": [
+    "assets/textures/m128/lava_seulen_128_noalpha.tga"
+  ],
+  "lava_rinne_b": [
+    "assets/textures/m256/lava_rinne_b.tga"
+  ],
+  "cw_counter1_face": [
+    "assets/textures/m128/CW_counter1_face.tga"
+  ],
+  "gelbneb_schwef_saeulen": [
+    "assets/textures/m256/gelbneb_schwef_saeulen.tga"
+  ],
+  "schwef_nahtlos": [
+    "assets/textures/m128/schwef_nahtlos.tga"
+  ],
+  "kr_background_a": [
+    "assets/textures/m128/kr_background_a.tga"
+  ],
+  "kr_background_b": [
+    "assets/textures/m128/kr_background_b.tga"
+  ],
+  "gelbneb_saeule1": [
+    "assets/textures/m256/gelbneb_saeule1.tga"
+  ],
+  "character_troll_kopf_f": [
+    "assets/textures/m256/Character_Troll_Kopf_f.tga"
+  ],
+  "kris_4_burg_bc": [
+    "assets/textures/m256/kris_4_burg_bc.tga"
+  ],
+  "trollh_4_wand_c": [
+    "assets/textures/m256/trollh_4_wand_c.tga"
+  ],
+  "gelbneb_schw_details": [
+    "assets/textures/m256/gelbneb_schw_details.tga"
+  ],
+  "gelbneb_schw_boden2": [
+    "assets/textures/m256/gelbneb_schw_boden2.tga"
+  ],
+  "gelbneb_schw_boden": [
+    "assets/textures/m256/gelbneb_schw_boden.tga"
+  ],
+  "trollh_4_wand_e": [
+    "assets/textures/m256/trollh_4_wand_e.tga"
+  ],
+  "gelbneb_schw_details2": [
+    "assets/textures/m256/gelbneb_schw_details2.tga"
+  ],
+  "lorenbahn_a": [
+    "assets/textures/m256/lorenbahn_a.tga"
+  ],
+  "lorenbahn_c": [
+    "assets/textures/m256/lorenbahn_c.tga"
+  ],
+  "gelbneb_rohre_b": [
+    "assets/textures/m256/gelbneb_Rohre_b.tga"
+  ],
+  "gelbneb_4_metall_b": [
+    "assets/textures/m256/gelbneb_4_metall_b.tga"
+  ],
+  "gelbneb_lampen": [
+    "assets/textures/m256/gelbneb_lampen.tga"
+  ],
+  "gelbneb_4_metall": [
+    "assets/textures/m256/gelbneb_4_metall.tga"
+  ],
+  "trollh_4_wand_b": [
+    "assets/textures/m256/trollh_4_wand_b.tga"
+  ],
+  "trollh_wandkram_a_256": [
+    "assets/textures/m256/Trollh_Wandkram_a_256.tga"
+  ],
+  "trollh_4_boden_a": [
+    "assets/textures/m256/trollh_4_boden_a.tga"
+  ],
+  "gelbneb_4_metall_a": [
+    "assets/textures/m256/gelbneb_4_metall_a.tga"
+  ],
+  "obw_4_boden_a": [
+    "assets/textures/m256/obw_4_boden_a.tga"
+  ],
+  "trollh_folterkammer_b_256": [
+    "assets/textures/m256/Trollh_Folterkammer_b_256.tga"
+  ],
+  "turnier_zubehoer_a": [
+    "assets/textures/m256/turnier_zubehoer_a.tga"
+  ],
+  "trollh_wandschmuck_d_256": [
+    "assets/textures/m256/Trollh_Wandschmuck_d_256.tga"
+  ],
+  "trollh_wandschmuck_c_256": [
+    "assets/textures/m256/Trollh_Wandschmuck_c_256.tga"
+  ],
+  "titanic_4_metall_a": [
+    "assets/textures/m256/titanic_4_metall_a.tga"
+  ],
+  "titanic_4_holz": [
+    "assets/textures/m256/titanic_4_holz.tga"
+  ],
+  "gelbneb_hydrant_a": [
+    "assets/textures/m256/gelbneb_Hydrant_a.tga"
+  ],
+  "gelbneb_rohre_c": [
+    "assets/textures/m256/gelbneb_Rohre_c.tga"
+  ],
+  "titanic_4_metall_b": [
+    "assets/textures/m256/titanic_4_metall_b.tga"
+  ],
+  "trollh_4_wand_a": [
+    "assets/textures/m256/trollh_4_wand_a.tga"
+  ],
+  "trollh_wandschmuck_e_256": [
+    "assets/textures/m256/Trollh_Wandschmuck_e_256.tga"
+  ],
+  "lava_4_vamp_b": [
+    "assets/textures/m256/lava_4_vamp_b.tga"
+  ],
+  "lava_seulen_128": [
+    "assets/textures/m128/lava_seulen_128.tga"
+  ],
+  "lava_boden_a": [
+    "assets/textures/m256/lava_boden_a.tga"
+  ],
+  "lava_4_vamp_d": [
+    "assets/textures/m256/lava_4_vamp_d.tga"
+  ],
+  "lava_4_vamp_c": [
+    "assets/textures/m256/lava_4_vamp_c.tga"
+  ],
+  "lava_vamp_a": [
+    "assets/textures/m256/lava_vamp_a.tga"
+  ],
+  "lava_becken_a": [
+    "assets/textures/m256/lava_becken_a.tga"
+  ],
+  "metall_schilde_a_128": [
+    "assets/textures/m128/Metall_Schilde_a_128.tga"
+  ],
+  "metall_standard_c_256": [
+    "assets/textures/m256/Metall_Standard_c_256.tga"
+  ],
+  "stein_medusa_a_128": [
+    "assets/textures/m128/Stein_Medusa_a_128.tga"
+  ],
+  "character_troll_kopf_e": [
+    "assets/textures/m256/Character_Troll_Kopf_e.tga"
+  ],
+  "metall_destilierapp_a_256": [
+    "assets/textures/m256/Metall_Destilierapp_a_256.tga"
+  ],
+  "fx_licht_c": [
+    "assets/textures/Misc/FX_Licht_c.tga"
+  ],
+  "endgame_b": [
+    "assets/textures/m256/endgame_b.tga"
+  ],
+  "endgame_c": [
+    "assets/textures/m256/endgame_c.tga"
+  ],
+  "krake01": [
+    "assets/textures/m256/Krake01.tga"
+  ],
+  "titanic_kron_a": [
+    "assets/textures/m256/titanic_kron_a.tga"
+  ],
+  "metall_standard_d": [
+    "assets/textures/m256/metall_standard_d.tga"
+  ],
+  "kristall_details_b": [
+    "assets/textures/m256/kristall_details_b.tga"
+  ],
+  "kristall_details_a": [
+    "assets/textures/m256/kristall_details_a.tga"
+  ],
+  "kr_enviroment_d": [
+    "assets/textures/m064/kr_enviroment_d.tga"
+  ],
+  "brainposter": [
+    "assets/textures/m256/brainposter.tga"
+  ],
+  "schatz_a_256": [
+    "assets/textures/m256/Schatz_a_256.tga"
+  ],
+  "fenbrut_rot": [
+    "assets/textures/m128/fenbrut_rot.tga"
+  ],
+  "lava_pfeiler": [
+    "assets/textures/m256/lava_pfeiler.tga"
+  ],
+  "lava_rinne_a": [
+    "assets/textures/m256/lava_rinne_a.tga"
+  ],
+  "lava_moos_a": [
+    "assets/textures/m256/lava_moos_a.tga"
+  ],
+  "lava_moos_b": [
+    "assets/textures/m256/lava_moos_b.tga"
+  ],
+  "gargoyle": [
+    "assets/textures/m256/gargoyle.tga"
+  ],
+  "struktur_plakate_a": [
+    "assets/textures/m256/Struktur_Plakate_a.tga"
+  ],
+  "metall_kschmiede_b": [
+    "assets/textures/m256/Metall_Kschmiede_b.tga"
+  ],
+  "zmann_koerper_oben": [
+    "assets/textures/m128/ZMann_Koerper_oben.tga"
+  ],
+  "zmann_koerper_unten": [
+    "assets/textures/m128/ZMann_Koerper_unten.tga"
+  ],
+  "zmann_haare": [
+    "assets/textures/m128/ZMann_Haare.tga"
+  ],
+  "zmann_gesicht_normal": [
+    "assets/textures/m128/ZMann_Gesicht_normal.tga"
+  ],
+  "zmann_augen_normal": [
+    "assets/textures/m064/ZMann_Augen_normal.tga"
+  ],
+  "cw_counter1_unten": [
+    "assets/textures/m128/CW_counter1_unten.tga"
+  ],
+  "cw_counter1_oben": [
+    "assets/textures/m128/CW_counter1_oben.tga"
+  ],
+  "cw_counter1_haare": [
+    "assets/textures/m128/CW_counter1_haare.tga"
+  ],
+  "gelbneb_maschdet_b": [
+    "assets/textures/m256/gelbneb_maschdet_b.tga"
+  ],
+  "wasser_sumpf_a": [
+    "assets/textures/m256/Wasser_Sumpf_a.tga"
+  ],
+  "gelbneb_schw_produktion": [
+    "assets/textures/m256/gelbneb_schw_produktion.tga"
+  ],
+  "schwef_waende": [
+    "assets/textures/m128/schwef_waende.tga"
+  ],
+  "titanic_kopf_b": [
+    "assets/textures/m256/titanic_kopf_b.tga"
+  ],
+  "titanic_4_holz_a": [
+    "assets/textures/m256/titanic_4_holz_a.tga"
+  ],
+  "titanic_details_b": [
+    "assets/textures/m256/titanic_details_b.tga"
+  ],
+  "gelbneb_maschdet_e": [
+    "assets/textures/m256/gelbneb_maschdet_e.tga"
+  ],
+  "gelbneb_maschdet_d": [
+    "assets/textures/m256/gelbneb_maschdet_d.tga"
+  ],
+  "lorenbahn_b": [
+    "assets/textures/m256/lorenbahn_b.tga"
+  ],
+  "fahne_mp_blue": [
+    "assets/textures/m064/fahne_mp_blue.tga"
+  ],
+  "spielkarten_128": [
+    "assets/textures/m128/spielkarten_128.tga"
+  ],
+  "oberwelt_baum_d": [
+    "assets/textures/m256/Oberwelt_Baum_d.tga"
+  ],
+  "obw_berg_f": [
+    "assets/textures/m128/obw_berg_f.tga"
+  ],
+  "oberw_burg_a": [
+    "assets/textures/m128/Oberw_burg_a.tga"
+  ],
+  "turnier_zelt_a": [
+    "assets/textures/m256/turnier_zelt_a.tga"
+  ],
+  "turnier_zelt_b": [
+    "assets/textures/m256/turnier_zelt_b.tga"
+  ],
+  "obw_berg_a": [
+    "assets/textures/m128/obw_berg_a.tga"
+  ],
+  "obw_berg_b": [
+    "assets/textures/m128/obw_berg_b.tga"
+  ],
+  "obw_berg_c": [
+    "assets/textures/m128/obw_berg_c.tga"
+  ],
+  "obw_berg_d": [
+    "assets/textures/m128/obw_berg_d.tga"
+  ],
+  "obw_berg_e": [
+    "assets/textures/m128/obw_berg_e.tga"
+  ],
+  "turnier_standarten": [
+    "assets/textures/m256/turnier_standarten.tga"
+  ],
+  "fahne_blau": [
+    "assets/textures/m064/fahne_blau.tga"
+  ],
+  "fahne_gruen": [
+    "assets/textures/m064/fahne_gruen.tga"
+  ],
+  "fahne_schwarz": [
+    "assets/textures/m064/fahne_schwarz.tga"
+  ],
+  "fahne_rot": [
+    "assets/textures/m064/fahne_rot.tga"
+  ],
+  "fahne_weiss": [
+    "assets/textures/m064/fahne_weiss.tga"
+  ],
+  "obw_wegweiser": [
+    "assets/textures/m256/obw_wegweiser.tga"
+  ],
+  "endgame_a": [
+    "assets/textures/m256/endgame_a.tga"
+  ],
+  "zfrau_koerper_unten_v1": [
+    "assets/textures/m128/ZFrau_Koerper_unten_v1.tga"
+  ],
+  "zfrau_koerper_oben_v1": [
+    "assets/textures/m128/ZFrau_Koerper_oben_v1.tga"
+  ],
+  "zfrau_haar_hip_2": [
+    "assets/textures/m064/zfrau_haar_hip_2.tga"
+  ],
+  "zfrau_koerper_unten_v2": [
+    "assets/textures/m128/ZFrau_Koerper_unten_v2.tga"
+  ],
+  "zfrau_koerper_oben_v2": [
+    "assets/textures/m128/ZFrau_Koerper_oben_v2.tga"
+  ],
+  "zfrau_haar_red_natural": [
+    "assets/textures/m064/zfrau_haar_red_natural.tga"
+  ],
+  "zfrau_gesicht_a_i": [
+    "assets/textures/m128/ZFrau_Gesicht_A_I.tga"
+  ],
+  "zfrau_augen_sonnenbrille": [
+    "assets/textures/m064/ZFrau_Augen_Sonnenbrille.tga"
+  ],
+  "zfrau_koerper_unten_v3": [
+    "assets/textures/m128/ZFrau_Koerper_unten_v3.tga"
+  ],
+  "zfrau_koerper_oben_v3": [
+    "assets/textures/m128/ZFrau_Koerper_oben_v3.tga"
+  ],
+  "zfrau_gesicht_o_u": [
+    "assets/textures/m128/ZFrau_Gesicht_O_U.tga"
+  ],
+  "zfrau_augen_erstaunt": [
+    "assets/textures/m064/ZFrau_Augen_erstaunt.tga"
+  ],
+  "zmann_koerper_oben_v1": [
+    "assets/textures/m128/ZMann_Koerper_oben_v1.tga"
+  ],
+  "zmann_koerper_unten_v2": [
+    "assets/textures/m128/ZMann_Koerper_unten_v2.tga"
+  ],
+  "zmann_koerper_oben_v2": [
+    "assets/textures/m128/ZMann_Koerper_oben_v2.tga"
+  ],
+  "zmann_gesicht_e": [
+    "assets/textures/m128/ZMann_Gesicht_E.tga"
+  ],
+  "zmann_augen_skeptisch": [
+    "assets/textures/m064/ZMann_Augen_skeptisch.tga"
+  ],
+  "zmann_koerper_unten_v3": [
+    "assets/textures/m128/ZMann_Koerper_unten_v3.tga"
+  ],
+  "zmann_koerper_oben_v3": [
+    "assets/textures/m128/ZMann_Koerper_oben_v3.tga"
+  ],
+  "zmann_gesicht_a_i": [
+    "assets/textures/m128/ZMann_Gesicht_A_I.tga"
+  ],
+  "zmann_augen_sonnenbrille": [
+    "assets/textures/m064/ZMann_Augen_Sonnenbrille.tga"
+  ],
+  "gras_nahtlos": [
+    "assets/textures/m128/gras_nahtlos.tga"
+  ],
+  "character_odin_a": [
+    "assets/textures/m256/Character_Odin_a.tga"
+  ],
+  "holz_dojo_a": [
+    "assets/textures/m256/Holz_Dojo_a.tga"
+  ],
+  "character_zmann_koerper_a_256": [
+    "assets/textures/m064/Character_ZMann_Koerper_a_256.tga"
+  ],
+  "trollh_bodenkram_a_256": [
+    "assets/textures/m256/Trollh_Bodenkram_a_256.tga"
+  ],
+  "holz_klotz_a_128": [
+    "assets/textures/m128/Holz_Klotz_a_128.tga"
+  ],
+  "metall_kschmiede_a": [
+    "assets/textures/m256/Metall_Kschmiede_a.tga"
+  ],
+  "metall_waffenfabrik_a": [
+    "assets/textures/m256/Metall_Waffenfabrik_a.tga"
+  ],
+  "zwerge_mechzeitalter_a_256": [
+    "assets/textures/m256/Zwerge_mechZeitalter_a_256.tga"
+  ],
+  "metall_waffenschmiede_a": [
+    "assets/textures/m256/Metall_Waffenschmiede_a.tga"
+  ],
+  "riesenelfe_koerper?0000": [
+    "assets/textures/m256/Riesenelfe_Koerper.tga"
+  ],
+  "riesenelfen_kopf?0001": [
+    "assets/textures/m256/Riesenelfen_Kopf.tga"
+  ],
+  "riesenelfen_kopf?0002": [
+    "assets/textures/m256/Riesenelfen_Kopf.tga"
+  ],
+  "feenfluegel?0003": [
+    "assets/textures/m128/feenfluegel.tga"
+  ],
+  "feenfluegel?0004": [
+    "assets/textures/m128/feenfluegel.tga"
+  ],
+  "feenfluegel?0005": [
+    "assets/textures/m128/feenfluegel.tga"
+  ],
+  "feenfluegel?0006": [
+    "assets/textures/m128/feenfluegel.tga"
+  ],
+  "character_hamster_gross": [
+    "assets/textures/m256/Character_Hamster_gross.tga",
+    "assets/textures/Gray/Character_Hamster_gross.tga"
+  ],
+  "metall_dampfaufzug_a_128": [
+    "assets/textures/m128/Metall_Dampfaufzug_a_128.tga"
+  ],
+  "leiter_holz": [
+    "assets/textures/m064/leiter_holz.tga"
+  ],
+  "troll001": [
+    "assets/textures/m256/Troll001.tga"
+  ],
+  "urwald_trolltempel_a_256": [
+    "assets/textures/m256/Urwald_Trolltempel_a_256.tga"
+  ]
+}

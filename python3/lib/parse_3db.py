@@ -66,6 +66,11 @@ class Material:
 class Animation:
     name: str
     meshes: List[int]
+    unknown1: int = 0
+    unknown2: float = 0.0
+    unknown_str: str = ""
+    unknown3: Tuple[float, float, float] = (0.0, 0.0, 0.0)
+    unknown4: Tuple[float, float, float] = (0.0, 0.0, 0.0)
 
 @dataclass
 class Model:
@@ -73,7 +78,7 @@ class Model:
     name: str
     materials: List[Material]
     meshes: List[Mesh]
-    objects: Dict[str, int]
+    objects: Dict[str, List[int]]
     animations: List[Animation]
     triangle_data: List[List[int]]
     texture_coordinates_data: List[List[Tuple[float, float]]]
@@ -160,14 +165,14 @@ def parse_3db_file(raw_data):
         for _ in range(some_count):
             mesh_indices.append(deserializer.read_u32())
 
-        # Read and ignore unknown values
-        deserializer.read_u16()
-        deserializer.read_f32()
-        deserializer.read_string()
-        deserializer.read_vec3()
-        deserializer.read_vec3()
+        # Read unknown values (store them for completeness)
+        unknown1 = deserializer.read_u16()
+        unknown2 = deserializer.read_f32()
+        unknown_str = deserializer.read_string()
+        unknown3 = deserializer.read_vec3()
+        unknown4 = deserializer.read_vec3()
 
-        animation = Animation(animation_name, mesh_indices)
+        animation = Animation(animation_name, mesh_indices, unknown1, unknown2, unknown_str, unknown3, unknown4)
         animations.append(animation)
 
     # Skip shadows
@@ -265,4 +270,3 @@ def parse_3db_file(raw_data):
     result = Model(db_version, name, materials, meshes, objects, animations,
             triangle_data, texture_coordinates_data, points_data, brightness_data)
     return result
-
