@@ -2,8 +2,6 @@
 
 This Unity Editor tool helps set up proper animations for converted Diggles/Wiggles models. It automatically creates animation clips and configures an Animator Controller for frame-by-frame animations.
 
-![Animation Setup Tool](https://i.imgur.com/U32YdQZ.png)
-
 ## Features
 
 - Automatically detects animation frames in imported FBX models

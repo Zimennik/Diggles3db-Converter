@@ -1,8 +1,8 @@
 # Diggles/Wiggles 3D Model Converter
 
-A utility for converting Diggles/Wiggles .3db models to FBX format, making them usable in modern 3D software and game engines.
+> This is a fork of [djunkles/Diggles3db](https://github.com/djunkles/Diggles3db) with significant enhancements to the conversion process, including texture support, material mapping, and Unity integration.
 
-![Diggles Model](https://i.imgur.com/VlwbK2O.png)
+A utility for converting Diggles/Wiggles .3db models to FBX format, making them usable in modern 3D software and game engines.
 
 ## Overview
 
